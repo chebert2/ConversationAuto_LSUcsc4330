@@ -1,0 +1,402 @@
+quality/_/_lots of different things
+variation/_/_no similarity
+entity/_/_chained entity
+indication/_/_cause for
+mindset/_/_good feeling
+entity/_/_center space counter
+with a criteria/_/_numerous times
+location/_/_certain part of some place
+location/_/_flat plot of space
+location/_/_rough plot of space
+location/_/_plot of space
+entity/_/_vague component
+ill/_/_wrong
+area/_/_amount of surface
+entity/_/_apparent quality
+entity/_/_awareness of matters
+ill/_/_bad situation
+criteria/_/_bound agreement
+item/_/_calcium bicarbonate
+quality/_/_certain element
+base/_/_common foundation
+standard/_/_common ground
+standard/_/_common intellect
+location/_/_cross of a divide
+location/_/_divide region
+location/_/_dividing region
+standard/_/_earnest commitment
+communication/_/_engaging transmission
+contentment/_/_enough contentment
+entity/_/_evaluated visualization
+entity/_/_exhibit of some detail
+against/_/_fighting with
+mindset/_/_fine thinking
+location/_/_flowing current
+area/_/_general territory
+standard/_/_good instinct
+standard/_/_good reasoning
+item/_/_hard shell
+inexact/_/_having bumpy variations
+inexact/_/_having sharp variations
+location/_/_high land
+content/_/_in agreement
+entity/_/_industrial plant
+new/_/_just made
+quiet/_/_little sound
+location/_/_mud territory
+quality/_/_near to the same
+quality/_/_not flat
+quality/_/_not uniform
+quality/_/_nothing in it
+one/_/_one character
+one/_/_one creature
+one/_/_one thing
+location/_/_open area
+item/_/_outdoor air
+entity/_/_particular issue
+area/_/_place at a certain base
+area/_/_place at a certain station
+area/_/_place at a certain outpost
+standard/_/_practical information
+history/_/_previous enactments
+entity/_/_repair facility
+at a location/_/_right near
+location/_/_rocky landscape
+quality/_/_rough form
+location/_/_sand territory
+location/_/_soil territory
+entity/_/_some item being monitored
+entity/_/_something checked out
+entity/_/_span of a flat region
+entity/_/_specific component
+mindset/_/_stable intellect
+location/_/_stone territory
+entity/_/_stopping point
+entity/_/_storage site
+entity/_/_street light
+location/_/_surrounding ground
+entity/_/_telling of a plot
+entity/_/_telling of some experience
+worried/_/_troubled with a concern
+location/_/_work shop
+mindset/_/_working mind
+a standard/_/_worthy stature
+entity/_/_written work
+positive/_/_good detail
+people/_/_group of persons
+right/_/_accurate inference
+suppression/_/_awkward interacting
+issue/_/_anything difficult
+plan/_/_approach or wish
+compelling/_/_appropriately directed
+discord/_/_awful position
+discord/_/_bad position
+standard/_/_basic functionality
+be outstanding/_/_be apart
+self-improvement/_/_be commendable
+self-improvement/_/_be virtuous
+report/_/_bring fact
+standard/_/_common implementation
+standard/_/_common useful model
+discord/_/_compromise of safety
+right/_/_configured validly
+refutation/_/_contrasting views
+entity/_/_cross section
+entity/_/_crowd occurring
+issue/_/_current item
+outcome/_/_defining resolve
+issue/_/_difficult thing
+outcome/_/_end factor
+outcomes/_/_end factors
+outcome/_/_ending factor
+outcomes/_/_ending factors
+remembrance/_/_familiar past experience
+objection/_/_a fight against
+discord/_/_harmful manipulation
+discord/_/_hateful act
+provide/_/_get available
+negative/_/_ill willed
+self-improvement/_/_keeping honor
+effort/_/_labor applied
+entity/_/_main stay
+excitement/_/_much anticipation
+transition/_/_new period
+evidence/_/_given support
+self-improvement/_/_greater honor
+stickler/_/_harsh person
+is useful/_/_has purpose
+right/_/_normal facilitation of
+discord/_/_hateful plot
+standard/_/_of common components
+availability/_/_with a supply
+outfitted/_/_having everything figured over
+outfit/_/_figure everything
+professional/_/_highly skilled
+how/_/_in what way
+use/_/_interest called for
+haphazard/_/_something with little protection
+negativeness/_/_mean spirit
+entity/_/_off shoot
+stickler/_/_one difficult to please
+item/_/_piece of clothing
+time/_/_previous experience
+right/_/_a proper suggestion
+right/_/_properly suggested
+discord/_/_public crisis
+remembrance/_/_recalled account
+object/_/_recommend against
+objecting/_/_recommending against
+culture/_/_regional diversity
+rebel/_/_rule breaker
+rebellious/_/_rule breaking
+plan/_/_set design
+scenario/_/_set of conditions
+irritated/_/_sick about
+discord/_/_some attack
+a provision/_/_something for use
+positive/_/_something indicative
+discord/_/_stressing incident
+excitement/_/_strong activity
+compelling/_/_strongly influential
+improvement/_/_success in realizing
+right/_/_a valid configuration
+prevalent/_/_well off
+useful/_/_with a purpose
+haphazard/_/_with risk
+discord/_/_wrong engagement
+people/_/_you all
+exhausted/_/_zonked out
+fill/_/_pile up
+filling/_/_piling up
+deliberate/_/_appropriate over
+grant/_/_offer an advancement
+harnessing/_/_use of talent
+harnessment/_/_better use of talent
+fine-tune/_/_tweak application
+flourish/_/_execute virtuously
+consulting/_/_grade concern
+visioning/_/_impeccable like
+appropriate/_/_go match to
+fit/_/_go match
+improve/_/_polishing marvel
+enrich/_/_confer garnish
+excell/_/_administer acumen
+execute/_/_carry out
+executing/_/_carrying out
+choose/_/_go with an option
+choosing/_/_going with an option
+selection/_/_an option to go with
+give/_/_care for
+give/_/_let have
+giving/_/_letting have
+portray/_/_make evident
+portraying/_/_making evident
+reclaim/_/_get something back
+reclaiming/_/_getting something back
+recognize/_/_approve through with appropriation
+recognizing/_/_approving through with appropriation
+repeal/_/_take away
+repealing/_/_taking away
+repeal/_/_get rid of
+repealing/_/_getting rid of
+shuffle/_/_sway back and forth
+shuffling/_/_swaying back and forth
+streak/_/_leave a line
+streaking/_/_leaving a line
+occur/_/_take place
+occurring/_/_taking place
+travel/_/_head for
+travelling/_/_heading for
+turn/_/_alter course
+turning/_/_altering course
+turn/_/_change angle
+turning/_/_changing angle
+wrap/_/_weave together
+wrap/_/_weaving together
+crowd/_/_get to be too much
+crowding/_/_getting to be too much
+crowd/_/_fill up
+crowding/_/_filling up
+maneuver/_/_go around
+maneuvering/_/_going around
+walk/_/_creep towards
+walking/_/_creeping towards
+climb/_/_go up
+climbing/_/_going up
+recognize/_/_approval of appropriation
+want/_/_be eager
+wanting/_/_being eager
+proceed/_/_make a drive
+proceeding/_/_making a drive
+reduce/_/_cut out
+reducing/_/_cutting out
+reduce/_/_cut off
+reducing/_/_cutting off
+reduce/_/_cut back
+reducing/_/_cutting back
+reduce/_/_make smaller
+reduce/_/_make small
+reducing/_/_making small
+reducing/_/_making smaller
+reduce/_/_make less
+reducing/_/_making less
+reduce/_/_make far smaller
+reducing/_/_making far smaller
+reduce/_/_make far less
+reducing/_/_making far less
+reduce/_/_make somewhat less
+reducing/_/_making somewhat less
+reduce/_/_become little
+reducing/_/_becoming little
+reduce/_/_scale down
+reducing/_/_scaling down
+reduce/_/_scale smaller
+reducing/_/_scaling smaller
+reduce/_/_make miniature
+reducing/_/_making miniature
+reduce/_/_get small
+reducing/_/_getting small
+reduce/_/_get smaller
+reducing/_/_getting smaller
+reduce/_/_get less
+reducing/_/_getting less
+reduce/_/_take more away
+reducing/_/_taking more away
+disrupt/_/_push around
+disrupting/_/_pushing around
+stress/_/_wear down
+stressing/_/_wearing down
+stress/_/_drain energy
+stressing/_/_draining energy
+divert/_/_draw away
+practice/_/_get prepared
+sympathize/_/_feel sorry for
+sympathizing/_/_feeling sorry for
+prepare/_/_figure what do
+preparing/_/_figuring what do
+prepare/_/_get ready
+preparing/_/_getting ready
+add/_/_make contribution
+prepare/_/_make ready
+adding/_/_making contribution
+prepare/_/_making ready
+respond/_/_show caring concern
+responding/_/_showing sympathy
+fill/_/_use up space
+filling/_/_using up space
+support/_/_agree with
+supporting/_/_agreeing with
+distract/_/_attract concern
+distracting/_/_attracting concern
+know/_/_be aware of
+belong/_/_be included
+please/_/_be kind
+disappoint/_/_be not good enough
+disappoint/_/_not being good enough
+knowing/_/_being aware of
+belonging/_/_being include
+pleasing/_/_being kind
+disappoint/_/_being not good enough
+disappointing/_/_not being good enough
+infiltrate/_/_break in
+infiltrating/_/_breaking in
+distract/_/_bring attention to
+represent/_/_bring commentary
+distracting/_/_bringing attention to
+representing/_/_bringing commentary
+do/_/_carry through
+doing/_/_carrying through
+alter/_/_change a component
+represent/_/_cover a detail
+representing/_/_covering a detail
+please/_/_do a favor
+pleasing/_/_doing a favor
+retract/_/_draw back
+retract/_/_drawing back
+direct/_/_easily arrange
+infiltrate/_/_gain power
+infiltrating/_/_gaining power
+know/_/_get a concept
+fit/_/_get something in
+dispose/_/_get rid of
+orient/_/_get the right perspective
+orient/_/_get a right perspective
+knowing/_/_getting a concept
+fitting/_/_getting something in
+disposing/_/_getting rid of
+orienting/_/_getting the right perspective
+please/_/_give a favor
+exchange/_/_give back and forth
+pleasing/_/_giving a favor
+exchanging/_/_giving back and forth
+go/_/_go to somewhere
+going/_/_going to somewhere
+give/_/_hand over
+giving/_/_handing over
+influence/_/_have authority
+belong/_/_have inclusiveness
+belong/_/_have a part of
+belonging/_/_having inclusiveness
+belonging/_/_having a part of
+go/_/_head for
+going/_/_heading for
+limit/_/_hold back
+preserve/_/_hold conditions
+limiting/_/_holding back
+preserving/_/_holding conditions
+direct/_/_issue an orderly deal
+directing/_/_issuing an orderly deal
+hold/_/_keep grasp
+preserve/_/_keep the same
+direct/_/_keep track
+overlook/_/_keep watch
+holding/_/_keeping grasp
+preserving/_/_keeping the same
+directing/_/_keeping track
+preserving/_/_keeping up
+overlooking/_/_keeping watch
+disappoint/_/_let down
+give/_/_let someone have
+disappointing/_/_letting down
+giving/_/_letting someone have
+place/_/_locate somewhere
+placing/_/_locating somewhere
+irk/_/_make bitter
+please/_/_make content
+alter/_/_make different
+obligate/_/_make required
+impair/_/_make sluggish
+impair/_/_make suscept
+irking/_/_making bitter
+pleasing/_/_making content
+impairing/_/_making sluggish
+impairing/_/_making suscept
+convene/_/_meet and introduce
+fulfill/_/_meet demand
+convening/_/_meeting and introducing
+fulfilling/_/_meeting demand
+give/_/_offer for free
+giving/_/_offering for free
+peal/_/_pull off
+pealing/_/_pulling off
+associate/_/_put with a characteristic
+rip/_/_rip into
+ripping/_/_ripping into
+respond/_/_show expression
+responding/_/_showing expression
+happening/_/_something that is going on
+exchange/_/_switch with
+exchanging/_/_switching with
+draw/_/_take out
+happen/_/_take place
+carry/_/_take with
+drawing/_/_taking out
+happening/_/_taking place
+transition/_/_get situated
+transition/_/_get better situated
+transitioning/_/_getting situated
+transitioning/_/_getting better situated
+apply/_/_make a use of
+apply/_/_make use of
+profit/_/_acquire value
+profiting/_/_acquiring value

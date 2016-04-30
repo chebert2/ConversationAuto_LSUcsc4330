@@ -1,0 +1,27 @@
+23:35:11.109 [main] INFO  e.s.nlp.pipeline.StanfordCoreNLP - Adding annotator tokenize
+23:35:11.110 [main] INFO  e.s.nlp.pipeline.StanfordCoreNLP - Adding annotator ssplit
+23:35:11.110 [main] INFO  e.s.nlp.pipeline.StanfordCoreNLP - Adding annotator pos
+23:35:11.110 [main] INFO  e.s.nlp.pipeline.StanfordCoreNLP - Adding annotator lemma
+23:35:11.110 [main] INFO  e.s.nlp.pipeline.StanfordCoreNLP - Adding annotator ner
+23:35:11.110 [main] INFO  e.s.nlp.pipeline.StanfordCoreNLP - Adding annotator parse
+Sentence #1 (5 tokens):
+Attention is given today .
+[Text=Attention CharacterOffsetBegin=0 CharacterOffsetEnd=9 PartOfSpeech=NN Lemma=attention NamedEntityTag=O]
+[Text=is CharacterOffsetBegin=10 CharacterOffsetEnd=12 PartOfSpeech=VBZ Lemma=be NamedEntityTag=O]
+[Text=given CharacterOffsetBegin=13 CharacterOffsetEnd=18 PartOfSpeech=VBN Lemma=give NamedEntityTag=O]
+[Text=today CharacterOffsetBegin=19 CharacterOffsetEnd=24 PartOfSpeech=NN Lemma=today NamedEntityTag=O]
+[Text=. CharacterOffsetBegin=25 CharacterOffsetEnd=26 PartOfSpeech=. Lemma=. NamedEntityTag=O]
+(ROOT
+  (S
+    (NP (NN Attention))
+    (VP (VBZ is)
+      (VP (VBN given)
+        (NP-TMP (NN today))))
+    (. .)))
+
+root(ROOT-0, given-3)
+nsubjpass(given-3, Attention-1)
+auxpass(given-3, is-2)
+nmod:tmod(given-3, today-4)
+punct(given-3, .-5)
+
